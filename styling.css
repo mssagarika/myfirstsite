@@ -1,0 +1,85 @@
+
+h1, h3, h2 {
+  font-family: arial
+}
+
+body {
+  background-color: white;
+  font-size: 17px;
+}
+
+img {
+  width: 100%;
+height: auto;
+}
+
+.stars {
+  width: 25%;
+height: auto;
+}
+
+a {color: #AE00FB;;}
+
+.h3 {
+  padding-left: 20px;
+  font-family: arial;
+}
+
+.hobbieslist {
+font-size: 20px
+}
+
+.hobbies_back_button {
+  color: #000000;
+  text-decoration: none;
+}
+
+.hobbies_back_button_2 {
+  background-color: #F2BB7B;
+  height: 45px;
+  width: 55px
+}
+
+.poop {
+  margin-left: 1250px;
+  font-size: 20px;
+  padding-right: 10px;
+  font-family: arial;
+  padding-top: 1px
+}
+
+.poop2 {
+  font-size: 20px;
+  font-family: arial
+}
+
+.me {
+  padding-left: 1px;
+}
+
+.contactme {
+  font-family: arial;
+}
+
+.body {
+  font-family: arial;
+}
+
+.frontpage {
+  font-family: arial;
+}
+
+ul {
+  font-family: arial;
+}
+
+.myskills {
+  font-family: arial;
+}
+
+.submitcontact {
+  height: 40px;
+  width: 65px;
+  font-size: 15px;
+  font-family: arial;
+}
